@@ -1,14 +1,25 @@
-# Hi Everyone👋, I'm EL Khairu
+### Hi Everyone👋, I'm EL Khairu
 
 I am a beginner programmer from Indonesia
 
-- <img src="For-README/KugisakiNobara.gif" alt="alt text" width="400" />
+<img src="For-README/KugisakiNobara.gif" alt="alt text" width="400" />
 
 - 🏠 My house in Palembang Sumatera Selatan  
-- 📝 My daily life Eat > Sleep > Repeat  
-- 💬 Ask me about How to eat, sleep and breathe  
-- ⚡ Fun fact I'm actually lazy when it comes to coding  
+
 - 📧 How to reach me [elkhairu16@gmail.com](mailto:elkhairu16@gmail.com)
+
+---
+
+### ⚡ Language:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+</p>
 
 ---
 
@@ -29,14 +40,3 @@ I am a beginner programmer from Indonesia
 </p>
 
 ---
-
-### 💻 My programming language:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-</p>
